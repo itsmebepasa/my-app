@@ -1,8 +1,9 @@
-const body=()=>{
+const Body=()=>{
     return(
-        <div classname='body'>
+        <div>
+            
             <h2>this is body</h2>
         </div>
     )
 }
-
+export default Body;

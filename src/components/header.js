@@ -1,7 +1,9 @@
-const header=()=>{
+const Header=()=>{
     return(
-        <div classname='header'>
-            <h2>this is header</h2>
+         <div className='text-red-700'>
+           
+                 <h1>this header</h1>
         </div>
-    )
-}
+    );
+};
+export default Header;

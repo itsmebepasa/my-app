@@ -1,7 +1,9 @@
-const footer=()=>{
+const Footer=()=>{
     return(
-        <div classname='footer'>
+        <div>
+            
             <h2>this is footer</h2>
         </div>
     )
 }
+export default Footer;
