@@ -1,8 +1,9 @@
 import'./App.css';
 
-import Body from'./components/Body.js';
+import Body  from './components/Body.js';
 import Footer from'./components/Footer.js';
 import Header from'./components/Header.js';
+import ProductCard  from './components/ProductCard.js';
 function App() {
   let name="nikey";
   return (
